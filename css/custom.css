@@ -1,0 +1,9 @@
+body {
+	/*background: transparent url('../image/water-background.jpg') top left repeat;*/
+	background-color: #C2D4D6;
+}
+
+.container {
+	max-width: 1600px !important;
+	margin: 2rem auto;
+}
